@@ -3,7 +3,7 @@ _A privacy oriented, serverless comment hosting solution written in Rust._
 
 ## What is this?
 
-_For more detail on how to build and run, please see [README-original.md](README-original.md) or the parent project's readme._
+> _For more detail on how to build and run, please see [README-original.md](README-original.md) or the parent project's readme._
 
 ### The present
 
